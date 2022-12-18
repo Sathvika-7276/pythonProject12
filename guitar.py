@@ -3,6 +3,7 @@ Guitar
 Estimate: 30 minutes
 Actual:   15 minutes
 """
+
 CURRENT_YEAR = 2022
 VINTAGE_YEAR = 50
 
