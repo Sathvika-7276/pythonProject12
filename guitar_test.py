@@ -4,6 +4,7 @@ Estimate: 30 minutes
 Actual:   20 minutes
 """
 
+
 from prac_06.guitar import Guitar
 
 CURRENT_YEAR = 2022
