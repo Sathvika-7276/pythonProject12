@@ -9,7 +9,8 @@ VINTAGE_YEAR = 50
 
 class Guitar:
     """ Storing details of guitar """
-    def __init__(self, name = "", year = 0, cost = 0):
+
+    def __init__(self, name="", year=0, cost=0):
         """Construct guitar type from the given values."""
         self.name = name
         self.year = year
